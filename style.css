@@ -1,0 +1,20 @@
+.Header{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    
+}
+.Header a{
+    padding: 20px;
+}
+.Header img{
+    margin-bottom: 80px;
+}
+
+.Image1{
+    width: 1600px;
+    height: 600px;
+    background-image: url(images/the-beacon.jpg);
+    background-size: 100% 100%;
+    margin-top: 50px;
+}
