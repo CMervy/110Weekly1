@@ -66,3 +66,44 @@
     font-size: 30px;
     padding: 10px;
 }
+
+.FAN p{
+display: inline;
+position: absolute;
+font-size: 30px;
+}
+#the-father{
+left: 200px;
+}
+#the-actor{
+left: 600px;
+}
+#the-nerd{
+left: 1000px;
+}
+#father-label{
+    left: 280px;
+    top:1200px ;
+}
+#actor-label{
+    left: 680px;
+    top: 1200px;
+}
+#nerd-label{
+    left:1080px ;
+    top: 1200px;
+}
+
+.footer{
+    background-color: black;
+    position: absolute;
+    top:1400px;
+    padding:50px;
+    display: block;
+    color: white;
+    width: 100%;
+    text-align: right;
+}
+.footer a{
+    margin: 10px;
+}
