@@ -18,3 +18,51 @@
     background-size: 100% 100%;
     margin-top: 50px;
 }
+.Image1 h3{
+    background-color: white;
+    display:inline;
+    position: absolute;
+    top: 450px;
+    left: 800px;
+    font-size: 35px;
+}
+#Our{
+    background-color: black;
+    display: inline;
+    color: white;
+    position: absolute;
+    top: 530px; 
+    left: 800px;
+    font-size: 30px;
+    padding: 10px;
+}
+#inspiration{
+    background-color: black;
+    display: inline;
+    color: white;
+    position: absolute;
+    top: 610px; 
+    left: 800px;
+    font-size: 30px;
+    padding: 10px;
+}
+#and{
+  background-color: black;
+    display: inline;
+    color: white;
+    position: absolute;
+    top: 690px; 
+    left: 800px;  
+    font-size: 30px;
+    padding: 10px;
+}
+#ReadMore{
+    background-color: aquamarine;
+    color: white;
+    display: inline;
+    position: absolute;
+    top: 770px; 
+    left: 800px;  
+    font-size: 30px;
+    padding: 10px;
+}
