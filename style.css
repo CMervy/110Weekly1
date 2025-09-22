@@ -74,12 +74,15 @@ font-size: 30px;
 }
 #the-father{
 left: 200px;
+border: black solid 4px;
 }
 #the-actor{
 left: 600px;
+border: black solid 4px;
 }
 #the-nerd{
 left: 1000px;
+border: black solid 4px;
 }
 #father-label{
     left: 280px;
@@ -159,4 +162,25 @@ left: 1000px;
 #nine{
     margin: 15px;
     border: black solid 4px;
+}
+#information h3{
+    text-align: center;
+    margin: 30px;
+    border: black solid 4px;
+    padding: 30px;
+}
+#Keep{
+    text-align: center;
+    margin-top: 150px;
+    background-color: black;
+color: white;
+padding: 5px;
+}
+#Send{
+background-color: black;
+color: white;
+padding: 5px;
+display: inline;
+position: absolute;
+left: 710px;
 }
