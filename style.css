@@ -107,3 +107,56 @@ left: 1000px;
 .footer a{
     margin: 10px;
 }
+.footer p{
+    position: absolute;
+    top: 50px;
+    font-size: 30px;
+    left: 100px;
+}
+
+#toprow{
+    text-align: center;
+    
+}
+#middlerow{
+    text-align: center;
+}
+#bottomrow{
+    text-align: center;
+}
+#one{
+    margin: 15px;
+    border: black solid 4px;
+}
+#seven{
+    margin: 15px;
+    border: black solid 4px;
+}
+#two{
+    margin: 15px;
+    border: black solid 4px;
+}
+#three{
+    margin: 15px;
+    border: black solid 4px;
+}
+#four{
+    margin: 15px;
+    border: black solid 4px;
+}
+#five{
+    margin: 15px;
+    border: black solid 4px;
+}
+#six{
+    margin: 15px;
+    border: black solid 4px;
+}
+#eight{
+    margin: 15px;
+    border: black solid 4px;
+}
+#nine{
+    margin: 15px;
+    border: black solid 4px;
+}
